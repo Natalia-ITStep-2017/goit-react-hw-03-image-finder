@@ -93,7 +93,6 @@ class Gallary extends Component {
     }
   }
 
-
   render() {
     return (
       <div className={css.App}>
